@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Avihu\Desktop\Projects\IZIGET\IZIGET\ParseStarterProject\libs\ParseCrashReporting-1.9.2.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="83f3b1e397f1cc3f05cb9db078d9e364b5f5e218">
+        <dex dex="C:\Users\Avihu\Desktop\Projects\IZIGET\IZIGET\ParseStarterProject\build\intermediates\pre-dexed\debug\ParseCrashReporting-1.9.2-4a840625bad16b229e0d05ee798c5f5206b61e04.jar" />
+    </item>
+    <item
+        jar="C:\Program Files (x86)\Android\android-sdk\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="C:\Users\Avihu\Desktop\Projects\zgetappv1\IZIGETappV1\IZIGET\ParseStarterProject\build\intermediates\pre-dexed\release\support-annotations-22.0.0-5f7b639de8135024e42567e7fe1ddfdfd8bac0f0.jar" />
+    </item>
+    <item
+        jar="C:\Users\Avihu\Desktop\Projects\zgetappv1\IZIGETappV1\IZIGET\ParseStarterProject\build\intermediates\exploded-aar\com.facebook.android\facebook-android-sdk\4.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="a78bfd2ec508b123ee7c03f4006ba7996ef9a8dc">
+        <dex dex="C:\Users\Avihu\Desktop\Projects\zgetappv1\IZIGETappV1\IZIGET\ParseStarterProject\build\intermediates\pre-dexed\release\classes-d0e89d1a612db9899bfd181ee62f1196e2101dc5.jar" />
+    </item>
+    <item
+        jar="C:\Users\Avihu\Desktop\Projects\zgetappv1\IZIGETappV1\IZIGET\ParseStarterProject\libs\Parse-1.9.2.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="fe739334780fe321141e62720822c2d456061899">
+        <dex dex="C:\Users\Avihu\Desktop\Projects\zgetappv1\IZIGETappV1\IZIGET\ParseStarterProject\build\intermediates\pre-dexed\release\Parse-1.9.2-00564fd58915b27bcfae774ec2986bc76fa09dcb.jar" />
+    </item>
+    <item
+        jar="C:\Users\Avihu\Desktop\Projects\IZIGET\IZIGET\ParseStarterProject\libs\Parse-1.9.2.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="fe739334780fe321141e62720822c2d456061899">
+        <dex dex="C:\Users\Avihu\Desktop\Projects\IZIGET\IZIGET\ParseStarterProject\build\intermediates\pre-dexed\debug\Parse-1.9.2-8edfade87058914554b6e237019da3ed0e8108a1.jar" />
+    </item>
+    <item
+        jar="C:\Program Files (x86)\Android\android-sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="C:\Users\Avihu\Desktop\Projects\IZIGET\IZIGET\ParseStarterProject\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-ff2d7f5022b5a92fc988e7ecf40140c2621ade2e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Avihu\Desktop\Projects\IZIGET\IZIGET\ParseStarterProject\libs\zbar.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="0a7b88ba1496a0b4af76069ad40dacd3897149e0">
+        <dex dex="C:\Users\Avihu\Desktop\Projects\IZIGET\IZIGET\ParseStarterProject\build\intermediates\pre-dexed\debug\zbar-f912c4828a62c645c976a36c06b7b788f03a9f8b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Avihu\Desktop\Projects\IZIGET\IZIGET\ParseStarterProject\build\intermediates\exploded-aar\com.facebook.android\facebook-android-sdk\4.1.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="a78bfd2ec508b123ee7c03f4006ba7996ef9a8dc">
+        <dex dex="C:\Users\Avihu\Desktop\Projects\IZIGET\IZIGET\ParseStarterProject\build\intermediates\pre-dexed\debug\classes-676f05b11353a3c0768e2f760ecbfd73663768af.jar" />
+    </item>
+    <item
+        jar="C:\Users\Avihu\Desktop\Projects\IZIGET\IZIGET\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="C:\Users\Avihu\Desktop\Projects\IZIGET\IZIGET\ParseStarterProject\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-e2d541d2b47343d3db6ca97ea4ad1b1aef7bfe70.jar" />
+    </item>
+    <item
+        jar="C:\Users\Avihu\Desktop\Projects\zgetappv1\IZIGETappV1\IZIGET\ParseStarterProject\libs\zbar.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="0a7b88ba1496a0b4af76069ad40dacd3897149e0">
+        <dex dex="C:\Users\Avihu\Desktop\Projects\zgetappv1\IZIGETappV1\IZIGET\ParseStarterProject\build\intermediates\pre-dexed\release\zbar-18ebfb9a80bf54fc0f8addeaedde2c1930d11da2.jar" />
+    </item>
+    <item
+        jar="C:\Users\Avihu\Desktop\Projects\zgetappv1\IZIGETappV1\IZIGET\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="f2f7ec211ce4d244ee97a57523eeb4526dc3cf8a">
+        <dex dex="C:\Users\Avihu\Desktop\Projects\zgetappv1\IZIGETappV1\IZIGET\ParseStarterProject\build\intermediates\pre-dexed\release\classes-4da5aa1ce9b79b906507139c628a7b1a77c1bce2.jar" />
+    </item>
+    <item
+        jar="C:\Users\Avihu\Desktop\Projects\zgetappv1\IZIGETappV1\IZIGET\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\jars\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="C:\Users\Avihu\Desktop\Projects\zgetappv1\IZIGETappV1\IZIGET\ParseStarterProject\build\intermediates\pre-dexed\release\internal_impl-22.0.0-1d9336d1a237b7d68b3460767a0cee9123b12da0.jar" />
+    </item>
+    <item
+        jar="C:\Users\Avihu\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-android\1.2.0\6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd\bolts-android-1.2.0.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd">
+        <dex dex="C:\Users\Avihu\Desktop\Projects\IZIGET\IZIGET\ParseStarterProject\build\intermediates\pre-dexed\debug\bolts-android-1.2.0-b00e092275e8d098c49a2b7db6aea764732b4f7a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Avihu\Desktop\Projects\IZIGET\IZIGET\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="C:\Users\Avihu\Desktop\Projects\IZIGET\IZIGET\ParseStarterProject\build\intermediates\pre-dexed\debug\classes-f576389308b3b4ff8258b24032c42c620fb6bba6.jar" />
+    </item>
+    <item
+        jar="C:\Users\Avihu\Desktop\Projects\zgetappv1\IZIGETappV1\IZIGET\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="7215ac1f2fca947b9415a6ee2a1bf991364aab24">
+        <dex dex="C:\Users\Avihu\Desktop\Projects\zgetappv1\IZIGETappV1\IZIGET\ParseStarterProject\build\intermediates\pre-dexed\release\classes-8ad36e37223810bbf52d6d08293edda09b26dc22.jar" />
+    </item>
+    <item
+        jar="C:\Users\Avihu\Desktop\Projects\zgetappv1\IZIGETappV1\IZIGET\ParseStarterProject\libs\ParseCrashReporting-1.9.2.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="83f3b1e397f1cc3f05cb9db078d9e364b5f5e218">
+        <dex dex="C:\Users\Avihu\Desktop\Projects\zgetappv1\IZIGETappV1\IZIGET\ParseStarterProject\build\intermediates\pre-dexed\release\ParseCrashReporting-1.9.2-65976082e1a276356b668e9f0b42e880f6aa386a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Avihu\Desktop\Projects\zgetappv1\IZIGETappV1\IZIGET\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="C:\Users\Avihu\Desktop\Projects\zgetappv1\IZIGETappV1\IZIGET\ParseStarterProject\build\intermediates\pre-dexed\release\classes-1913fa7136dd0b4c04735b64ef53c4e300b9f233.jar" />
+    </item>
+
+</items>
